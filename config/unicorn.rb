@@ -1,4 +1,4 @@
-@path = '/Users/mubae/Dropbox/Dev/Ruby/capitest/'
+@path = '~/Laboratory/sinatra-with-rspec-capybara-example/'
 worker_processes 1
 working_directory @path
 timeout 300
